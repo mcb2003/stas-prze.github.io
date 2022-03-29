@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using Roland Sound Canvas emulation to playback midi files"
-date:   2022-03-10
+date:   2022-03-29
 ---
 A while back I have gotten more interested in the Roland Sound Canvas line of devices, for music creation and recreational use alike.
 
